@@ -1,0 +1,5 @@
+com\google\SignGuestbookServlet.class
+com\google\Guestbook.class
+com\google\GuestbookServlet.class
+com\google\OfyHelper.class
+com\google\Greeting.class
